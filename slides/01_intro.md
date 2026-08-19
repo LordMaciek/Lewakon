@@ -76,3 +76,36 @@ import EFAVectors from '../components/EFAVectors.vue'
 </script>
 
 <EFAVectors :step="$clicks" />
+
+---
+
+# Rules, grading etc.
+
+## Absences
+  
+* You can be absent from two classes for whatever reason.
+  * Anything beyond that, you will get a side quest.
+  * Upon completion, absence in nullified!
+* Any remaining absence above the two reduces your final grade by 1!
+* You must be present at least 50% of classes (rounded up)
+
+---
+
+# Rules, grading etc.
+
+## Grading: The two assignments
+
+* At the end of each block, you will get an assignment.
+  * You will have two weeks to complete them.
+* They are worth 35 and 15 points, respectively.
+* You complete them, send them back to me.
+* I grade them, you get points and feedback.
+* Sum of scores translates to your grade.
+* With each assignment, you can send a draft to me and ask questions.
+  * Those need to be precise questions regarding well-defined problems.
+  * "Is my justification for the choice of blah blah blah method sufficient?" ✅
+  * "What else should I do to make it better?" ❌
+
+---
+
+# AI
