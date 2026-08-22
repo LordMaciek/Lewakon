@@ -1,0 +1,42 @@
+baseURL = 'https://lewakon.adapulawska.org/'
+locale = 'en-us'
+title = 'LEWAKON'
+theme = 'hugo-coder'
+fullWidthTheme = 'true'
+
+[[menu.main]]
+  name = "Aktualności"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "Program"
+  weight = 2
+  url = "program/"
+[[menu.main]]
+  name = "Goście"
+  weight = 3
+  url = "guests/"
+[[menu.main]]
+  name = "Kontakt"
+  weight = 4
+  url = "about/"
+
+[pagination]
+  pagerSize = 20
+
+[params]
+  author = "Lewakon"
+  info = "9-10 IV 2027" 
+  avatarURL = "images/avatar.jpg"
+  # or use a Gravatar:
+  # gravatar = "you@example.com"
+
+  dateFormat = "January 2, 2006"
+  since = 2026
+  hideColorSchemeToggle = true
+  colorScheme = "dark"   # "auto", "light", "dark"
+  customCSS = ["css/custom.css"]
+
+[services]
+[services.rss]
+  limit = 20
