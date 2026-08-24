@@ -1,6 +1,9 @@
 ---
 layout: cover
 theme: nord
+fonts:
+  heading: "Fira Sans"
+  text: "Fira Sans"
 ---
 
 # Advanced Data Exploration Methods
@@ -129,11 +132,13 @@ import EFAVectors from '../components/EFAVectors.vue'
 
 ---
 
-# Placeholder for aiinhw1
+
+<img src="/aiinhw.png" class="max-h-full" />
 
 ---
 
-# Placeholder for aiinhw2
+
+<img src="/aiinhw2.png" class="max-h-full" />
 
 ---
 
