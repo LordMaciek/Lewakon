@@ -19,9 +19,8 @@ theme: nord
   * racism
   * mixed methods in social sciences
   * teaching
-* I have websites:
+* I have a websites:
   * http://cbu.psychologia.pl/zespol/maciek-bienkowski/
-  * https://lordmaciek.github.io
 
 ---
 
@@ -109,3 +108,47 @@ import EFAVectors from '../components/EFAVectors.vue'
 ---
 
 # AI
+
+## The situation
+
+* AI exists.
+* Most likely, it will continue to exist in one form or another (but: enshittification).
+* It is a common workplace tool.
+* A meaningful labour market asset.
+* Can make life easier.
+
+---
+
+# But.
+
+* Can be detrimental to learning process
+  * And cognitive development
+* Is bad for the environment.
+* There are reasons to be not too fond of people who profit most from it.
+* Enshittification
+
+---
+
+# Placeholder for aiinhw1
+
+---
+
+# Placeholder for aiinhw2
+
+---
+
+# Enshittification
+
+1. Cool word, but the concept is way older.
+2. Monopolization or oligopolisation lead to decay in quality of product
+    * See: Social media platforms
+3. Price hike
+
+---
+
+# So: a tool to be used wisely.
+
+## What do I propose? A contract.
+
+1. Teacher part
+2. Student part
