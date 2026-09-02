@@ -44,7 +44,8 @@ layout: default
 clicks: 2
 ---
 
-# Clustering [AI generated]
+# Clustering 
+### [AI generated]
 
 
 <script setup>
@@ -54,12 +55,12 @@ import ClusterDemo from '../components/ClusterDemo.vue'
 
 <ClusterDemo :step="$clicks" />
 
-
 ---
 clicks: 2
 ---
 
-# EFA [AI generated]
+# EFA
+### [AI generated]
 
 <script setup>
 import FactorSimulator from '../components/FactorSimulator.vue'
@@ -70,7 +71,8 @@ import FactorSimulator from '../components/FactorSimulator.vue'
 clicks: 2
 ---
 
-# EFA – different perspective [AI generated]
+# EFA – different perspective
+### [AI generated]
 
 <script setup>
 import EFAVectors from '../components/EFAVectors.vue'
@@ -238,7 +240,8 @@ Ask me. Ask a colleague. Go to message boards (stackoverflow!) try and figure ou
 6. We will have a Kampus space for data, materials, and so on.
 7. If you need help do let me know.
 
-## We can sign this as a contract next week.
+## We can sign this as a contract 
+8. next week.
 
 ---
 

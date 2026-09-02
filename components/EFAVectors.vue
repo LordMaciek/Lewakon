@@ -184,7 +184,7 @@ const stepLabel = computed(() => {
 <style scoped>
 .vec-demo {
   width: 100%;
-  height: 90%;
+  height: 80%;
   max-height: 100%;
   display: flex;
   flex-direction: column;

@@ -156,7 +156,7 @@ const stepLabel = computed(() => {
 <style scoped>
 .cluster-demo {
   width: 100%;
-  height: 90%;
+  height: 80%;
   max-height: 95%;
   display: flex;
   flex-direction: column;

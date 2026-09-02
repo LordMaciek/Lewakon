@@ -131,7 +131,7 @@ const showGrouping = computed(() => props.step >= 2)
 <style scoped>
 .factor-sim {
   width: 100%;
-  height: 90%;
+  height: 80%;
   display: flex;
   flex-direction: column;
   align-items: center;
