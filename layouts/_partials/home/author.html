@@ -1,0 +1,20 @@
+<h1>{{ .Site.Params.author }}</h1>
+{{ if reflect.IsSlice .Site.Params.info }}
+<h2>{{ range .Site.Params.info }}{{ . | markdownify }}<br>{{ end }}</h2>
+{{ else }}
+<h2>{{ .Site.Params.info | markdownify }}</h2>
+{{ end }}
+
+{{/* ===== WERSJA A: najnowszy post z posts/ (automatycznie) ===== 
+{{ with (first 1 (where site.RegularPages "Section" "posts")) }}
+  {{ range . }}
+    <div class="news">{{ .Content }}</div>
+  {{ end }}
+{{ end }}
+*/}}
+
+{{/* ===== WERSJA B: konkretny przypięty post (zmień ścieżkę) =====*/}}
+{{ with site.GetPage "/posts/hello-world" }}
+  <div class="news">{{ .Content }}</div>
+{{ end }}
+

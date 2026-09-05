@@ -1,0 +1,10 @@
+<li>
+  <div class="post-meta">
+    <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "2 January 2026") }}</span>
+    <!-- <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a> -->
+  </div>
+  <div class="summary">{{ .Summary }}</div>
+  {{ if .Truncated }}
+    <div class="read-more"><a href="{{ .RelPermalink }}">czytaj dalej →</a></div>
+  {{ end }}
+</li>

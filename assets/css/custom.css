@@ -10,3 +10,53 @@
     width: min(70vw, 280px);
   }
 }
+.centered .news {
+  text-align: justify;
+}
+/* li z powrotem blokowe, żeby summary i read-more szły pod spodem */
+.list ul:not(.pagination) li {
+  display: block;
+}
+
+/* data + tytuł obok siebie, jak w oryginale */
+.list .post-meta {
+  display: flex;
+  align-items: baseline;
+}
+
+.list .post-meta .date {
+  width: 20rem;
+  text-align: right;
+  margin-right: 3rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .list .post-meta {
+    display: block;
+  }
+  .list .post-meta .date {
+    width: auto;
+    text-align: left;
+    margin-right: 0;
+  }
+}
+
+.list .summary {
+  text-align: justify;
+  margin-top: 0.8rem;
+}
+
+.list .read-more {
+  margin-top: 0.8rem;
+}
+.list .post-meta .date {
+  width: auto;
+  text-align: left;
+  margin-right: 0;
+  font-size: 2rem;
+}
+
+.list .post-meta .title {
+  font-size: 2rem;
+  margin-left: 1rem;
+}

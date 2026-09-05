@@ -1,8 +1,9 @@
 baseURL = 'https://lewakon.adapulawska.org/'
-locale = 'en-us'
+locale = 'pl-pl'
 title = 'LEWAKON'
 theme = 'hugo-coder'
 fullWidthTheme = 'true'
+defaultContentLanguage = 'pl'
 
 [[menu.main]]
   name = "Aktualności"
@@ -25,13 +26,13 @@ fullWidthTheme = 'true'
   pagerSize = 20
 
 [params]
-  author = "Lewakon"
-  info = "9-10 IV 2027" 
+  # author = "Lewakon"
+  # info = "9-10 IV 2027" 
   avatarURL = "images/avatar.jpg"
   # or use a Gravatar:
   # gravatar = "you@example.com"
 
-  dateFormat = "January 2, 2006"
+  dateFormat = ":date_long"
   since = 2026
   hideColorSchemeToggle = true
   colorScheme = "dark"   # "auto", "light", "dark"
