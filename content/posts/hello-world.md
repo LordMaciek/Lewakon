@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2026-08-21T17:49:21Z
 title = "Lewakon się rodzi!"
 description = ""
