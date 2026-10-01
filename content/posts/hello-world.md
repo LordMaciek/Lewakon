@@ -21,7 +21,7 @@ No dobra, nie oszukujmy się – światy wyobraźni od dawna były zainfekowane 
 
 Podczas tego pierwszego (prawdziwie!) lewicowego konwentu odwiedzimy różne miejsca. Zielone, solarpunkowe utopie, które dają odwagę, żeby wierzyć, że inna przyszłość jest możliwa. Stworzymy przestrzeń, żeby zastanowić się, jak mogłaby wyglądać i co musiało się wydarzyć, żeby się ziściła.
 
-Piaski postapokalipsy, które ostrzegają przed tym, co nas czeka, jeżeli nie przyswoimy i nie wprowadzimy w życie lewackiej-teorii-wszystkiego, i pytają, czy w takich warunkach uda się ludziom zachować resztki rigczu?
+Piaski  postapokalipsy, które ostrzegają przed tym, co nas czeka, jeżeli nie przyswoimy i nie wprowadzimy w życie lewackiej-teorii-wszystkiego, i pytają, czy w takich warunkach uda się ludziom zachować resztki rigczu?
 
 Neonowe dystopie Cyberpunka®, które pozwalają spojrzeć na obecny świat krytyczniej niż redakcja Krytyki Politycznej.
 
